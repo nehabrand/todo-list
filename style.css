@@ -1,0 +1,50 @@
+ html, body{
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+
+}
+.container{
+    width: 360px;
+    color: rgb(78, 78, 80);
+   
+}
+#inputField{
+    width: 200px;
+background: black;
+    height:30px;
+    border: 1px solid rgb(73, 4, 4);
+    outline:none;
+    font-size:25px;
+    vertical-align: middle;
+    color: white;
+
+}
+#addToDo{
+    height: 30px;
+    width: 50px;
+    border: 1px solid rgb(4, 59, 4);
+    vertical-align: middle;
+   color: green;
+    font-size: 15px;
+    background-color: greenyellow;
+
+}
+
+.to-dos {
+    margin-top: 20px;
+}
+.paragraph-styling {
+
+    margin:0;
+    cursor: pointe;
+    font-size: 20px;
+}
+.colorfull{
+
+color: rgb(236, 6, 75);
+
+} 
+
+
